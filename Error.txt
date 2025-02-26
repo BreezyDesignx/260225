@@ -1,1 +1,2 @@
 I am learning how to handle error in Git command
+Error corrected
